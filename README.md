@@ -1,6 +1,6 @@
 🙋‍♂️ **Hello!**
 
-I'm **Pietro**, but feel free to call me **pzdrin**.
+I'm **Pietro**, but feel free to call me **pz**.
 
 I'm a **Software Engineering student** based in **Brazil 🇧🇷**, focused on building modern web applications, high-performance tools, and exploring the world of **Web-Design**.
 
