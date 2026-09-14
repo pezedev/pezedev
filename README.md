@@ -12,7 +12,7 @@ I build solid and functional web solutions with a strong focus on performance an
 
 * **Languages:** TypeScript, JavaScript, Python, Lua, HTML5, CSS3.
 * **Web:** Node.js, Flask, Tailwind CSS, Modern UI/UX Design.
-* **Tools:** Git, VS Code, Linux.
+* **Tools:** Git, VS Code, Antigravity, OpenCode.
 
 ---
 
